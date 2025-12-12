@@ -65,20 +65,19 @@ Engineered for high throughput and low latency — modular routing, strict valid
 
 # 🔵 GitHub Stats
 
+<!-- GitHub Stats (restore known-good endpoints) -->
 <p align="center">
-  <!-- Stable stats mirror (uses lowercase username) -->
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rohitth10e&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=dark&show_icons=true&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <!-- Streaks (case-sensitive; must be lowercase username) -->
   <img height="160" src="https://streak-stats.demolab.com?user=rohitth10e&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <!-- Top languages -->
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rohitth10e&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 </p>
+
 
 > Notes:
 > - The `username` parameter must be **all lowercase**: `rohitth10e`.  
