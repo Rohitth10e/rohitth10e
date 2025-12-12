@@ -71,11 +71,6 @@ Engineered for high throughput and low latency — modular routing, strict valid
 </p>
 
 
-
-> Notes:
-> - The `username` parameter must be **all lowercase**: `rohitth10e`.  
-> - These particular endpoints are stable mirrors that avoid common rate-limit or cache issues.
-
 ---
 
 # 🔴 Connect With Me  
