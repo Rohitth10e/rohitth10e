@@ -67,16 +67,13 @@ Engineered for high throughput and low latency — modular routing, strict valid
 
 <!-- GitHub Stats (restore known-good endpoints) -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=dark&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitth10e&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rohitth10e&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=rohitth10e&theme=dark&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitth10e&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
 
 
 > Notes:
