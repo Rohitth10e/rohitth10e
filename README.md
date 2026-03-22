@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Rohith
 
-I code because I love it.  
-Whether I’m bored, happy, or even sad — I turn to code. It’s my obsession, my way of thinking, and my way of creating.  
-For me, building systems isn’t just work, it’s play.
+I don’t just “like” coding I’m stuck with it.  
+Bored? I code. Happy? I code. Sad? Yeah, still coding.  
+It’s not therapy, but it’s cheaper… and honestly more fun than most hobbies.
 
 ---
 
 ## 🔹 Areas of Interest
-- Backend engineering and distributed architectures  
+- Backend engineering and distributed systems  
 - DevOps workflows and containerized deployments  
-- Agentic AI applications and automation patterns  
+- Agentic AI and automation  
 
 ---
 
 ## 🔹 Tech Stack
-I enjoy working across languages, frameworks, and tools — choosing what fits the problem best.  
-Some I’ve used often: Go, Python, Java (Spring Boot), JavaScript, Django, Node.js, React, Vue, PostgreSQL, MongoDB, Docker.
+Tools I’ve used often (and abused): Go, Python, Java (Spring Boot), JavaScript, Django, Node.js, React, Vue, PostgreSQL, MongoDB, Docker.  
+I pick what works, not what trends.
 
 ---
 
@@ -26,4 +26,4 @@ Some I’ve used often: Go, Python, Java (Spring Boot), JavaScript, Django, Node
 
 ---
 
-*"Coding is my constant — my way of living beautifully."*
+*"Code is my default setting."*
