@@ -1,25 +1,25 @@
-# 👋 Hi, I'm Rohith
+# 👋 Rohith here
 
-I don’t just “like” coding I’m stuck with it.  
-Bored? I code. Happy? I code. Sad? Yeah, still coding.  
-It’s not therapy, but it’s cheaper… and honestly more fun than most hobbies.
+I code when I’m bored, excited, or somewhere in between—building things is just the default.
 
 ---
 
-## 🔹 Areas of Interest
-- Backend engineering and distributed systems  
-- DevOps workflows and containerized deployments  
-- Agentic AI and automation  
+## What I do
+- Design and ship backend services plus distributed workflows  
+- Build CI/CD pipelines and containerized deployments  
+- Automate work with agentic AI
 
 ---
 
-## 🔹 Tech Stack
-Tools I’ve used often (and abused): Go, Python, Java (Spring Boot), JavaScript, Django, Node.js, React, Vue, PostgreSQL, MongoDB, Docker.  
-I pick what works, not what trends.
+## Toolbox
+- Languages: Go, Python, Java (Spring Boot), JavaScript/TypeScript  
+- Frameworks: Django, Node.js, React, Vue  
+- Data: PostgreSQL, MongoDB  
+- Infra: Docker and container-native workflows
 
 ---
 
-## 🔹 Connect
+## Connect
 - [GitHub](https://github.com/rohitth10e)  
 - [LinkedIn](https://linkedin.com/in/rohitheshwars)  
 - [Email](mailto:rohiteshwar.s@gmail.com)
