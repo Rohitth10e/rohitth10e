@@ -15,7 +15,7 @@ I code when I’m bored, excited, or somewhere in between—building things is j
 - Languages: Go, Python, Java (Spring Boot), JavaScript/TypeScript  
 - Frameworks: Django, Node.js, React, Vue  
 - Data: PostgreSQL, MongoDB  
-- Infra: Docker and container-native workflows
+- Infra: AWS, Docker, and container-native workflows
 
 ---
 
