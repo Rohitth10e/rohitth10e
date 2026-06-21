@@ -1,4 +1,3 @@
-```md
 # Hey, I'm Rohith 👋
 
 Backend Engineer • Cloud & AI Enthusiast • Builder
@@ -72,4 +71,3 @@ Designed and deployed containerized applications using modern CI/CD workflows an
 ---
 
 > Building software, automating workflows, and exploring the future of AI.
-```
